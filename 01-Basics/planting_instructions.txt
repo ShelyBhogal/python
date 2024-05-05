@@ -1,0 +1,20 @@
+Andromeda: gardener to plant in garden
+Bellflower: me to plant in window box
+China Pink: me to plant in window box
+Daffodil: me to plant in window box
+Evening Primrose: gardener to plant in garden
+French Marigold: gardener to plant in garden
+Golden Hakone Grass: me to plant in window box
+Hydrangea: gardener to plant in garden
+Iris: me to plant in window box
+Japanese Camellia: gardener to plant in garden
+Lavender: me to plant in window box
+Lilac: gardener to plant in garden
+Magnolia: gardener to plant in garden
+Peony: me to plant in window box
+Queen Anne's Lace: gardener to plant in garden
+Red Hot Poker: me to plant in window box
+Snapdragon: gardener to plant in garden
+Sunflower: gardener to plant in garden
+Tiger Lily: me to plant in window box
+Witch Hazel: gardener to plant in garden
